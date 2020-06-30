@@ -10,7 +10,7 @@ import SwiftUI
 
 struct TopView: View {
     var body: some View {
-        Text("ぶるりぶえいり")
+        Text("みれたよ")
         
     }
 }
